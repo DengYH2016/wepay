@@ -154,13 +154,4 @@
 	+ <a href="https://github.com/ihaolin/alipay" target="_blank">支付宝支付组件</a>；
 	+ <a href="https://github.com/ihaolin/wechat" target="_blank">微信公众号组件</a>。
 
-## 有事请烧钱
-
-+ 支付宝:
-		
-	<img src="alipay.png" width="200">
-	
-+ 微信:
-
-	<img src="wechat.png" width="200">
         
